@@ -1,2 +1,1 @@
-# Riddle_Game
-A riddle game built using Python
+A python built riddle game. It gives you the option to roll, whichever number you land on you have to answer the riddle. If you get it wrong you have to do the dare. I made this game when i first started learning Python.
